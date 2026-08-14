@@ -1,9 +1,12 @@
 Adaptive Story-Based Fitness Game
+
 Team Members :
 2420030037 – G. Poojitha  
 2420030038 – N. Keerthi Sri 
+
 Supervisor:
 Guide: Swapna Reddy  
+
 Abstract :
 The Adaptive Story-Based Fitness Game is an innovative application that integrates physical exercise with interactive storytelling to promote health and engagement. 
 Unlike traditional fitness apps, this system gamifies workouts by embedding them within a dynamic narrative, where user performance directly influences story progression. 
